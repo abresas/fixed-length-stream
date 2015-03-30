@@ -4,7 +4,7 @@
 	"main": "lib.js",
 	"scripts": {
 		"prepublish": "./node_modules/.bin/coffee -c lib.coffee"
-    },
+	},
 	"repository": {
 		"type": "git",
 		"url": "git@bitbucket.org:abresas/fixed-length-stream.git"
